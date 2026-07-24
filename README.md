@@ -2,6 +2,8 @@
 
 Public-safe case study for a private commercial platform.
 
+**Live site:** [b2bstock.de/en](https://b2bstock.de/en)
+
 ## Overview
 
 B2BStock is a B2B liquidation and wholesale pallet auction platform. It combines public auction discovery, authenticated user workflows, admin operations, realtime bidding, payments, invoices, notifications, company verification, inventory management, and mobile access.
@@ -42,4 +44,3 @@ Designed and developed major full-stack platform workflows across backend APIs, 
 ## Privacy
 
 The source code is private. This case study intentionally excludes repository names, credentials, internal URLs, customer/company records, bids, invoices, payment records, provider documents, verification files, and admin screenshots.
-
